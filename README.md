@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Pedro Santos is an XP Technical Coach**
+**Pedro Santos is an [XP](https://en.wikipedia.org/wiki/Extreme_programming) Technical Coach**
 
 ### Things I'm doing:
 - Working on the second edition of [Agile Technical Practices](https://leanpub.com/agiletechnicalpracticesdistilled)
