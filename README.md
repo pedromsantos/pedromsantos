@@ -14,4 +14,4 @@
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromsantos&show_icons=true&theme=onedark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromsantos&layout=compact&theme=onedark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromsantos&layout=compact&theme=onedark&count_private=true)
