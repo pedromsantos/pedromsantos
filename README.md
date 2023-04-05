@@ -10,7 +10,7 @@
   - Typescript [Glenn](https://github.com/pedromsantos/glenn)
   - F# [Vaughan](https://github.com/pedromsantos/vaughan)
   - Kotlin [HarrisMusic](https://github.com/pedromsantos/HarrisMusic)
-- Leaninrg to make music!
+- Learning to make music!
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromsantos&show_icons=true&theme=onedark&count_private=true)
 
