@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**pedromsantos/pedromsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pedro Santos is an XP Technical Coach**
 
-Here are some ideas to get you started:
+### Things I'm doing:
+- Working on the second edition of ![Agile Technical Practices](https://leanpub.com/agiletechnicalpracticesdistilled)
+- Coaching software engineers on XP Practices
+- Writing code in Typescript, Java, C#, Kotlin and F#.
+- Writing music libraries in several languages
+  - Typescript ![Glenn](https://github.com/pedromsantos/glenn)
+  - F# ![Vaughan](https://github.com/pedromsantos/vaughan)
+  - Kotlin ![HarrisMusic](https://github.com/pedromsantos/HarrisMusic)
+- Leaninrg to make music!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromsantos&show_icons=true&theme=onedark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromsantos&layout=compact&theme=onedark&count_private=true)
