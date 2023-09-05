@@ -5,6 +5,9 @@
 ### Things I'm doing:
 - Working on the second edition of [Agile Technical Practices](https://leanpub.com/agiletechnicalpracticesdistilled)
 - Coaching software engineers on XP Practices
+  - Exercises / katas
+    - Typescript [TS-Kata](https://github.com/pedromsantos/ts-kata)
+    - C# [TS-Kata](https://github.com/pedromsantos/cs-kata)
 - Writing code in Typescript, Java, C#, Kotlin and F#.
 - Writing music libraries in several languages
   - Typescript [Glenn](https://github.com/pedromsantos/glenn)
