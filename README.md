@@ -21,4 +21,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromsantos&hide=CSS,C%2b%2b,Objective-C,HTML,CMake&langs_count=8&layout=compact&theme=onedark&count_private=false)
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,java,js,kotlin,ocaml,rust,swift,,jest,aws,azure,react,&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=dotnet,java,js,kotlin,ocaml,rust,swift,,jest,aws,azure,react,&perline=3)](https://skillicons.dev)
