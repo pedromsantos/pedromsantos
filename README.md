@@ -9,6 +9,7 @@
     - Typescript [TS-Kata](https://github.com/pedromsantos/ts-kata)
     - C# [CS-Kata](https://github.com/pedromsantos/cs-kata)
     - Java [Java-Kata](https://github.com/pedromsantos/java-kata)
+    - Python [Python-kata](https://github.com/pedromsantos/python-kata)
 - Writing code in Typescript, Java, C#, Kotlin and F#.
 - Writing music libraries in several languages
   - Typescript [Glenn](https://github.com/pedromsantos/glenn)
