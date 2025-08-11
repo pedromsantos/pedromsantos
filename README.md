@@ -2,6 +2,14 @@
 
 Pedro is a Software Engineer with 20+ years leading high-performing software teams and driving technical excellence. Pedro specializes in code renovation and modernization, DDD, TDD, Refactoring, software architecture, Test Automation, CI/CD, code quality, and technical processes to accelerate delivery and improve code quality. As the author of Agile Technical Practices Distilled, Pedro empowers organizations to master agile engineering and achieve delivery and quality improvements.
 
+### Key Qualifications & Experiences:
+
+- Proven Technology Leadership: Led teams as Distinguished Engineer and Principal Software Engineer at Vista, blending hands-on delivery with technical coaching to uplift engineering practices and accelerate delivery.
+- Expert in Modern Architectures: Extensive experience designing and implementing distributed systems, microservices, and serverless architectures using AWS, Azure, and a variety of programming languages (C#, Rust, Typescript, Java, Kotlin, Python).
+- Agile & Quality-Driven: Author of "Agile Technical Practices Distilled" and recognized for championing DDD, TDD, BDD, XP practices, to ensure robust, maintainable, and scalable solutions.
+- Legacy Code Modernization: Successfully led modernization projects, such as transforming monolithic systems into high-performing, maintainable services at ASOS, Iberia, Vueling Airlines, and Mango, reducing processing times and improving system resilience.
+- Coaching & Mentoring: Deep commitment to team growth—designed apprenticeship programs, coached engineers at ASOS, Codurance, and CoKaiDo, and empowered organizations to master agile technical practices.
+
 [LinkedIn Profile](https://www.linkedin.com/in/pedros/)
 
 ## Things I'm doing:
