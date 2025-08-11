@@ -2,6 +2,8 @@
 
 Pedro is a Software Engineer with 20+ years leading high-performing software teams and driving technical excellence. Pedro specializes in code renovation and modernization, DDD, TDD, Refactoring, software architecture, Test Automation, CI/CD, code quality, and technical processes to accelerate delivery and improve code quality. As the author of Agile Technical Practices Distilled, Pedro empowers organizations to master agile engineering and achieve delivery and quality improvements.
 
+[LinkedIn Profile](https://www.linkedin.com/in/pedros/)
+
 ## Things I'm doing:
 
 - Working as an [XP](https://en.wikipedia.org/wiki/Extreme_programming) Technical Coach [XP mentoring program](https://github.com/pedromsantos/AGILE-TECHICAL-PRACTICES-mentoring-program)
