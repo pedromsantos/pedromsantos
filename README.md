@@ -20,24 +20,24 @@ Pedro is a Software Engineer with 20+ years leading high-performing software tea
 - Learning to make music!
 
 ### Speaker
-Pedro has presented sessions at various conferences, open spaces, and developer groups:
-[Kandddinsky](https://kandddinsky.de/), Berlin 2022
-[DDD Europe](https://dddeurope.com/) 2020
-[Conferencia Agile Spain](https://agile-spain.org/cas/) 2019, 2023
-[SPA Conference](http://www.bcs-spa.org/index.php) UK 2019
-[ITAKE](https://itakeunconf.com/) Romania 2018
-[Agile Portugal](https://2018.agilept.org) 2018
-Socrates Belgium 2017, 2019
-Socrates UK 2015, 2016, 2017, 2019
-Socrates Italy 2017
-Software Crafters Barcelona 2016, 2017, 2018, 2019, 2021
-Software Crafters Pamplona 2022, 2023, 2024
-Socrates Spain 2016, 2019
-Socrates Germany 2015, 2022, 2023, 2024
-Code Freeze 2015
-Barcelona Software Crafters Community 2012-2019
-London Software Crafters Community 2014-2018
-Lisbon Software Crafters Community 2020
+- Pedro has presented sessions at various conferences, open spaces, and developer groups:
+  - [Kandddinsky](https://kandddinsky.de/), Berlin 2022
+  - [DDD Europe](https://dddeurope.com/) 2020
+  - [Conferencia Agile Spain](https://agile-spain.org/cas/) 2019, 2023
+  - [SPA Conference](http://www.bcs-spa.org/index.php) UK 2019
+  - [ITAKE](https://itakeunconf.com/) Romania 2018
+  - [Agile Portugal](https://2018.agilept.org) 2018
+  - Socrates Belgium 2017, 2019
+  - Socrates UK 2015, 2016, 2017, 2019
+  - Socrates Italy 2017
+  - Software Crafters Barcelona 2016, 2017, 2018, 2019, 2021
+  - Software Crafters Pamplona 2022, 2023, 2024
+  - Socrates Spain 2016, 2019
+  - Socrates Germany 2015, 2022, 2023, 2024
+  - Code Freeze 2015
+  - Barcelona Software Crafters Community 2012-2019
+  - London Software Crafters Community 2014-2018
+  - Lisbon Software Crafters Community 2020
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromsantos&show_icons=true&theme=onedark&count_private=true)
 
