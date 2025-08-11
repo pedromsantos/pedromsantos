@@ -1,8 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
 Pedro is a Software Engineer with 20+ years leading high-performing software teams and driving technical excellence. Pedro specializes in code renovation and modernization, DDD, TDD, Refactoring, software architecture, Test Automation, CI/CD, code quality, and technical processes to accelerate delivery and improve code quality. As the author of Agile Technical Practices Distilled, Pedro empowers organizations to master agile engineering and achieve delivery and quality improvements.
 
-### Things I'm doing:
+## Things I'm doing:
+
 - Working as an [XP](https://en.wikipedia.org/wiki/Extreme_programming) Technical Coach [XP mentoring program](https://github.com/pedromsantos/AGILE-TECHICAL-PRACTICES-mentoring-program)
 - Working on the second edition of [Agile Technical Practices](https://leanpub.com/agiletechnicalpracticesdistilled)
 - Coaching software engineers on XP Practices
@@ -19,7 +20,8 @@ Pedro is a Software Engineer with 20+ years leading high-performing software tea
   - C# [Jaco](https://github.com/pedromsantos/Jaco)
 - Learning to make music!
 
-### Speaker
+## Speaker
+
 - Pedro has presented sessions at various conferences, open spaces, and developer groups:
   - [Kandddinsky](https://kandddinsky.de/), Berlin 2022
   - [DDD Europe](https://dddeurope.com/) 2020
@@ -38,6 +40,8 @@ Pedro is a Software Engineer with 20+ years leading high-performing software tea
   - Barcelona Software Crafters Community 2012-2019
   - London Software Crafters Community 2014-2018
   - Lisbon Software Crafters Community 2020
+
+## GitHub stats
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromsantos&show_icons=true&theme=onedark&count_private=true)
 
