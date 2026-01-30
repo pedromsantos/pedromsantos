@@ -22,6 +22,7 @@ Pedro is a Software Engineer with 20+ years leading high-performing software tea
     - C# [CS-Kata](https://github.com/pedromsantos/cs-kata)
     - Java [Java-Kata](https://github.com/pedromsantos/java-kata)
     - Python [Python-kata](https://github.com/pedromsantos/python-kata)
+    - Go [Go-kata](https://github.com/pedromsantos/go-kata)
     - C [C-kata](https://github.com/pedromsantos/c-kata)
 - Writing code in Typescript, Java, C#, Kotlin and F#.
 - Writing music libraries in several languages
